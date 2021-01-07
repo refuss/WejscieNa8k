@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace Wejściena8k
 {
@@ -43,19 +46,19 @@ namespace Wejściena8k
         }
         static void CountList()
         {
-            var names = new List<> { "Adam", "Tomasz", "Anna" };
+            var names = new List<string>() { "Adam", "Tomasz", "Anna" };
             foreach (var name in names)
             {
                 Console.WriteLine($"Hello. This is {name.ToUpper()}");
             }
 
-            var fibbonaciNumbers = new List { 1, 1 };
+            var fibbonaciNumbers = new List<int>() { 1, 1 };
             for (int i = 1; i <= 20; i++)
             {
                 while (fibbonaciNumbers.Count < 20)
                 {
-                    var first = fibbonaciNumbers[fibbonaciNumbers.count - 1];
-                    var second = fibbonaciNumbers[fibbonaciNumbers.count - 2];
+                    var first = fibbonaciNumbers[fibbonaciNumbers.Count - 1];
+                    var second = fibbonaciNumbers[fibbonaciNumbers.Count - 2];
                     fibbonaciNumbers.Add(first + second);
                 }
                 foreach (var num in fibbonaciNumbers)
