@@ -1,0 +1,13 @@
+C:\Users\Łukasz\source\repos\Wejściena8k\bin\Debug\netcoreapp3.1\Wejściena8k.exe
+C:\Users\Łukasz\source\repos\Wejściena8k\bin\Debug\netcoreapp3.1\Wejściena8k.deps.json
+C:\Users\Łukasz\source\repos\Wejściena8k\bin\Debug\netcoreapp3.1\Wejściena8k.runtimeconfig.json
+C:\Users\Łukasz\source\repos\Wejściena8k\bin\Debug\netcoreapp3.1\Wejściena8k.runtimeconfig.dev.json
+C:\Users\Łukasz\source\repos\Wejściena8k\bin\Debug\netcoreapp3.1\Wejściena8k.dll
+C:\Users\Łukasz\source\repos\Wejściena8k\bin\Debug\netcoreapp3.1\Wejściena8k.pdb
+C:\Users\Łukasz\source\repos\Wejściena8k\obj\Debug\netcoreapp3.1\Wejściena8k.csprojAssemblyReference.cache
+C:\Users\Łukasz\source\repos\Wejściena8k\obj\Debug\netcoreapp3.1\Wejściena8k.AssemblyInfoInputs.cache
+C:\Users\Łukasz\source\repos\Wejściena8k\obj\Debug\netcoreapp3.1\Wejściena8k.AssemblyInfo.cs
+C:\Users\Łukasz\source\repos\Wejściena8k\obj\Debug\netcoreapp3.1\Wejściena8k.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\source\repos\Wejściena8k\obj\Debug\netcoreapp3.1\Wejściena8k.dll
+C:\Users\Łukasz\source\repos\Wejściena8k\obj\Debug\netcoreapp3.1\Wejściena8k.pdb
+C:\Users\Łukasz\source\repos\Wejściena8k\obj\Debug\netcoreapp3.1\Wejściena8k.genruntimeconfig.cache
